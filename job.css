@@ -1,0 +1,243 @@
+.mão{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+
+    background-color: #CAE0E5;
+}
+
+.fundo{
+    background-image: url("");
+}
+
+.container_one{
+    width: 200vh;
+    height: 30em;
+
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 9em;
+    
+}
+.container1{
+    width: 200vh;
+    height: 30em;
+
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 0em;
+    
+}
+
+.initial{
+    width: 70em;
+    height: 30em;
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 5em;
+
+    background-color: #FFD692;
+
+    border-radius: 25pt;
+
+}
+
+.nome{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+.titulo{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 30pt;
+    font-weight: 400;
+
+    color: #272F59;
+
+}
+.texto{
+    display: inline-block;
+
+    text-align: justify;
+    margin-right: 3em;
+    margin-left: 1em;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    font-style: normal;
+    font-weight: normal;
+
+    letter-spacing: 1px;
+
+}
+
+.friends{
+    width: 250pt;
+    display: inline-block;
+    float: left;
+    margin-left: 3em;
+}
+
+.container_two{
+    width: 30em;
+    height: 20em;
+
+    background-color: #FFE9CD;
+
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 0em;
+
+    border-radius: 25pt;
+    border-bottom-right-radius: 0pt;
+
+}
+
+.container_tree{
+    width: 30em;
+    height: 20em;
+
+    background-color: #AAB8B9;
+
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 0em;
+
+    border-radius: 25pt;
+    border-bottom-right-radius: 0pt;
+}
+
+.perfil{
+    border-radius: 50%;
+    width: 120pt;
+
+    align-items: center;
+
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+
+}
+
+.val{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15pt;
+    font-style: normal;
+    font-weight: normal;
+
+    letter-spacing: 1px;
+
+    text-align: center;
+    text-decoration: none;
+
+}
+.butão{
+    width: 150pt;
+    height: 50pt;
+
+    margin: auto;
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+
+    background-color: #02732A;
+    border: none;
+
+    border-radius: 25pt;
+
+}
+
+.cool{
+    text-decoration-color: none;
+
+    letter-spacing: 2pt;
+
+    font-weight: 200;
+    font-size: 15pt;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #F2F2E4;
+}
+
+.line{
+    text-decoration: none;
+}
+
+.pe{
+    background: #FFFFFF url("pe.jpg") no-repeat left top fixed;
+    background-size: cover;
+    overflow: hidden;
+
+
+    align-items: center;
+}
+.if{
+    width: 100pt;
+
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    align-items: center;
+     
+    border-radius: 50%;
+
+    margin-top: 1em;
+}
+.bahia{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    text-align: center;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20pt;
+    font-style: normal;
+    font-weight: 500;
+    color: #FEF7E1;
+
+    margin-top: 1em;
+}
+.name{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    text-align: center;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15pt;
+    font-style: normal;
+    font-weight: 500;
+    color: #FEF7E1;
+
+    margin-bottom: 1em;
+}

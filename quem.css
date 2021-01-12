@@ -1,0 +1,57 @@
+body{
+    width: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
+
+    background-color: #C2F2F2;
+}
+.quadrado{
+    width: 80%;
+    height: 70%;
+
+    background-image: url("among.jpg");
+    background-size: cover;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 9em;
+    margin-bottom: 9em;
+
+    border-radius: 50pt;
+}
+.img{
+    width: 250pt;
+
+    border-radius: 50%;
+    margin-left: 4em;
+
+    display: inline-block;
+}
+.texta{
+    display: inline-block;
+    margin-left: 3em;
+}
+.yo{
+    color:#FCFFF5 ;
+    font-size: 30pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-align: center;
+    display: flex;
+}
+.oi{
+    color:#FCFFF5 ;
+    font-size: 15pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-align: center;
+    display: flex;
+}
+.rede{
+    width: 15pt;
+
+    margin-left: 2em;
+}
